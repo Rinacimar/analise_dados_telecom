@@ -8,3 +8,9 @@ Bibliotecas utilizadas:
 
     -> pandas
     -> plotly
+
+Cenário:
+
+  A empresa queria saber o motivo dos clientes cancelarem os planos e desejava
+organizar um planejamento de estrategias que poderiam diminuir o cancelamento
+dos clientes futuros.
